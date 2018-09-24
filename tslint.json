@@ -39,7 +39,7 @@
         ],
         "ter-indent": [
             true,
-            2,
+            4,
             {
                 "SwitchCase": 1
             }
